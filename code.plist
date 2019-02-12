@@ -13,7 +13,7 @@
      <string>software-package</string>
      <key>url</key>
 <!-- http或者https链接的ipa文件地址 -->
-     <string>http://www.sclichang.com/download/淘牛牛.ipa</string>
+     <string>https://www.sclichang.com/download/淘牛牛.ipa</string>
     </dict>
     <dict>
      <key>kind</key>
